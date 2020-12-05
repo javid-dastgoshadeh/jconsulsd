@@ -11,7 +11,7 @@ This package is the implementation of consul service discovery register,
 ## Quickstart
 First get the project into your GOPATH using the following command:
 ```bash
-$ go get "url of project"
+$ go get "github.com/javid-dastgoshadeh/jconsulsd"
 ```
 
 After doing above, you'll be able use this package
