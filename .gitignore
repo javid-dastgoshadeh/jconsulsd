@@ -1,0 +1,5 @@
+\.idea
+go.sum
+bin/*
+go_build_main_go
+
